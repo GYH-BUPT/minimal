@@ -86,7 +86,8 @@ table {
 }
 
 th, td {
-  text-align:left;
+  text-align:justify;
+  text-justify:inter-ideograph;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
 }
